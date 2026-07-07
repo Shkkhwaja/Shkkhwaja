@@ -28,8 +28,6 @@
 
 ## 🧑‍💻 About Me
 
-<img src="https://github-readme-stats.vercel.app/api?username=Shkkhwaja&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF5C39&icon_color=D4FF4F&text_color=ffffff&ring_color=FF5C39&include_all_commits=true&count_private=true" align="right" width="48%"/>
-
 ```typescript
 const khwaja = {
   name:       "Khwaja Hussain Shaikh",
@@ -58,9 +56,7 @@ const khwaja = {
 };
 ```
 
-<img src="https://streak-stats.demolab.com/?user=Shkkhwaja&theme=radical&hide_border=true&background=0D1117&stroke=FF5C39&ring=FF5C39&fire=D4FF4F&currStreakLabel=FF5C39&sideLabels=aaaaaa&currStreakNum=ffffff&sideNums=ffffff&dates=888888" width="48%"/>
-
-<br clear="right"/>
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=D4FF4F&height=3" width="100%"/>
 
@@ -105,30 +101,6 @@ const khwaja = {
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=FF5C39&height=3" width="100%"/>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Shkkhwaja&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=6" width="100%"/>
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=D4FF4F&height=3" width="100%"/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shkkhwaja&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF5C39&text_color=ffffff&langs_count=8&size_weight=0.5&count_weight=0.5" width="36%"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api?username=Shkkhwaja&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF5C39&icon_color=D4FF4F&text_color=ffffff&count_private=true&hide=contribs" width="56%"/>
 
 </div>
 
@@ -330,7 +302,7 @@ const khwaja = {
 <br/>
 
 <a href="https://khwajashaikh.vercel.app" target="_blank">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Now-FF5C39?style=for-the-badge&labelColor=0A0A0A"/>
+  <img src="https://img.shields.io/badge/Portfolio-Visit_Now-FF5C39?style=for-the-badge&labelColor=0A0A0A"/>
 </a>
 &nbsp;
 <a href="https://linkedin.com/in/khwaja-shaikh-960b981b1/" target="_blank">
