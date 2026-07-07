@@ -5,7 +5,8 @@
 <br/>
 
 <a href="https://khwajashaikh.vercel.app" target="_blank">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&pause=900&color=FF5C39&background=00000000&center=true&vCenter=true&repeat=true&width=640&height=45&lines=🚀+Full+Stack+Developer+(MERN+%2B+Next.js);💡+8%2B+Live+Production+Websites+Built;🏆+Department+Topper+%7C+CGPA+8.30+%2F+10;🥇+Tech+Shaastra+Hackathon+Winner+%C3%972;🔥+Currently+%40+ZAR+Luxury+Pvt.+Ltd.;✅+Open+for+Freelance+%26+Full-Time+Roles" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=19&pause=1000&color=FF5C39&background=00000000&center=true&vCenter=true&repeat=true&width=580&height=45&lines=Full+Stack+Developer+(MERN+%2B+Next.js);8%2B+Live+Production+Websites+Built;Department+Topper+%7C+CGPA+8.30+%2F+10;Tech+Shaastra+Hackathon+Winner+x2;Currently+%40+ZAR+Luxury+Pvt.+Ltd.;Open+for+Freelance+%26+Full-Time+Roles" alt="Typing SVG"/>
+
 </a>
 
 <br/><br/>
